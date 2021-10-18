@@ -1,4 +1,4 @@
 hoge
 hoge
-hoge
+日本語
 hoge
